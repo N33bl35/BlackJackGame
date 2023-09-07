@@ -1,0 +1,15 @@
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/bin/Debug/net7.0/BlackJackGame
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/bin/Debug/net7.0/BlackJackGame.deps.json
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/bin/Debug/net7.0/BlackJackGame.runtimeconfig.json
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/bin/Debug/net7.0/BlackJackGame.dll
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/bin/Debug/net7.0/BlackJackGame.pdb
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.csproj.AssemblyReference.cache
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.AssemblyInfoInputs.cache
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.AssemblyInfo.cs
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.csproj.CoreCompileInputs.cache
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.dll
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/refint/BlackJackGame.dll
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.pdb
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.genruntimeconfig.cache
+/Users/aaron/Desktop/C# Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/ref/BlackJackGame.dll
