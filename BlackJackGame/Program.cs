@@ -14,6 +14,21 @@ Console.WriteLine("Welcome to Blackjack!");
 // I would like to work on seeing the CORRECT formatting for this entire code. Want to see it so I can practice
 // Not dealing with Hard or Soft 17, Splitting, int-Downs, etc.
 //******************************************************************************
+//******************************************************************************
+//******************************************************************************
+//******************************************************************************
+
+
+// NEEBS NEEBS NEEBS NEEBS
+
+// Once you get to this screen, at the top right hand corner there should be a drop menu or a pencil to edit this file. 
+// If you are able, select EDIT IN PLACE. This allows you to edit MY code right here on gitHub. I am able to commit changes, but I'm not sure what will happen if you do.
+
+// Go ahead and add some notes in here when/if you can. Then I will look at how it actually effects my file.
+
+//******************************************************************************
+//******************************************************************************
+//******************************************************************************
 
 bool readyToPlay = PromptUserForDecision(playerName);
 
