@@ -11,6 +11,8 @@ Console.WriteLine("Hello, what is your name?");
 string playerName = Console.ReadLine();
 Console.WriteLine("Welcome to Blackjack!");
 
+
+// Want to add functionality to display UTC and Local times - possibly have choice to have a running time displayed while playing?
 // I would like to work on seeing the CORRECT formatting for this entire code. Want to see it so I can practice
 // Not dealing with Hard or Soft 17, Splitting, int-Downs, etc.
 //******************************************************************************
